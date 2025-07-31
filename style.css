@@ -208,6 +208,48 @@ nav,a{
         color: #444;
         line-height: 1.5;
     }
+ /* chidozie's code*/
+   /* .social-icons img{
+        width: 30px;
+        height: 30px;
+        justify-content: space-between;
+        margin-right: 20px;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+     footer{
+        display: block;
+        padding:  4em 24em 4em 22em;
+        border-radius: 10px;
+        height: 200px;
+     }
+     .footer-text{
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 12;
+        padding-top: 0.8em;
+        color: #777;
+        align-items: center;
+     }*/
+    .social-icons{
+       margin-bottom: 10px;
+     }
 
-    
+     .social-icons img{
+         margin: 10px 10px;
+        cursor: pointer;
+        width: 40px;
+     }
 
+footer{
+    text-align: center;
+    padding: 40px 20px 20px;
+    margin-top: 40px
+}
+
+.copyright{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: smaller;
+    font-size: 12px;
+    color: #777;
+}
+      
